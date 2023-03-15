@@ -49,6 +49,6 @@ int main(){
         }
     }
 
-    cout << "\nNilai max = " << maxNum << "\nNilai min = " << minNum;
+    cout << "\nMax namber = " << maxNum << "\nMin number = " << minNum;
 
 }
