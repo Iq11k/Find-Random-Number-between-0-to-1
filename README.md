@@ -6,4 +6,5 @@ find the number upper the rate (0.75)
 
 find the min and max number from the list upper the rate
 
+
 pokoknya gitu lah ya gaes
