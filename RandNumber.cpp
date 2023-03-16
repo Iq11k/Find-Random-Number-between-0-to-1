@@ -49,6 +49,12 @@ int main(){
         }
     }
 
-    cout << "\nMax namber = " << maxNum << "\nMin number = " << minNum;
+    // condition to check if the max Num empty or not
+    if (maxNum != 0){
+        cout << "\nNilai max = " << maxNum << "\nNilai min = " << minNum;
+    }
+    else {
+        cout << "\nNo max & min number";
+    }
 
 }
